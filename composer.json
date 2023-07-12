@@ -1,7 +1,7 @@
 {
     "name": "fafmio/wordpress-cli",
     "description": "Command CLI for all Drosalys Wordpress Theme Proejcts.",
-    "type": "project",
+    "type": "library",
     "license": "proprietary",
     "minimum-stability": "stable",
     "prefer-stable": true,
