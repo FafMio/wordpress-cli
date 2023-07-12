@@ -1,5 +1,5 @@
 {
-    "name": "sylv/drosalys-wordpress-cli",
+    "name": "fafmio/wordpress-cli",
     "description": "Command CLI for all Drosalys Wordpress Theme Proejcts.",
     "type": "project",
     "license": "proprietary",
